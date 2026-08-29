@@ -210,28 +210,9 @@ Potential features include:
 
 
 
----
 
-## 📚 Currently Exploring
 
-```text
-✓ Python
-✓ REST APIs
-✓ FastAPI
-✓ SQL & Databases
-✓ Git & GitHub
-✓ Machine Learning
-✓ Deep Learning
 
-→ RAG
-→ LLM Applications
-→ AI Agents
-→ Generative AI
-→ Docker
-→ Cloud Deployment
-→ System Design
-→ Data Structures & Algorithms
-```
 
 ---
 
