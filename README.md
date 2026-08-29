@@ -189,13 +189,13 @@ An AI-powered concept for personalized outfit analysis and styling recommendatio
 
 ## 🐍 Contribution Journey
 
+### 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shaiksihaamanjum/shaiksihaamanjum/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake"/>
-  <img src="https://raw.githubusercontent.com/shaiksihaamanjum/shaiksihaamanjum/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake Dark"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shaiksihaamanjum/shaiksihaamanjum/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/shaiksihaamanjum/shaiksihaamanjum/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shaiksihaamanjum&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 ---
 
