@@ -56,9 +56,7 @@ Software Engineer | Machine Learning &amp; Data Science Enthusiast | Building pr
 
 ### 📈 Contribution Graph
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaiksihaamanjum&bg_color=00000000&color=0891b2&line=0891b2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaiksihaamanjum&theme=tokyonight&hide_border=true&background=00000000&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" alt="GitHub contribution streak" /> </p>
 
 ### 💭 Dev Quote
 
