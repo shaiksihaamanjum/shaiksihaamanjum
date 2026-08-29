@@ -12,6 +12,7 @@
 
 ---
 
+
 ## 🧠 About Me
 
 I'm a **Computer Science Engineering student** passionate about building intelligent systems that solve real-world problems.
@@ -49,7 +50,6 @@ class Sihaam:
     philosophy = "Learn → Build → Break → Understand → Improve"
 
     pronouns = "She/Her"
-```
 
 ---
 
