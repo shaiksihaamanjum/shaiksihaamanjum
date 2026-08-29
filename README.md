@@ -205,13 +205,19 @@ Potential features include:
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaiksihaamanjum&theme=tokyonight"
-    alt="GitHub Activity"
+    height="170"
+    src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=shaiksihaamanjum&show_icons=true&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&count_private=true"
+    alt="GitHub Stats"
+  />
+
+  <img 
+    height="170"
+    src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=shaiksihaamanjum&layout=compact&theme=tokyonight&title_color=0891b2&hide_border=true&bg_color=00000000&langs_count=8"
+    alt="Top Languages"
   />
 </p>
 
