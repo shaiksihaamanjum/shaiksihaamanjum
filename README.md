@@ -225,7 +225,17 @@ Potential features include:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
+  <a href="https://codeforces.com/profile/CodeLegend1804">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+
+  <a href="https://leetcode.com/u/shaiksihaamanjum/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+
 </p>
+
+
 
 ---
 
