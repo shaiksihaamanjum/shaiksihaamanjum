@@ -45,20 +45,7 @@ Artificial Intelligence
         ├── AI Agents
         └── LLM Applications
 
-Backend Development
-        │
-        ├── REST APIs
-        ├── FastAPI
-        ├── Databases
-        ├── Authentication
-        └── API Integration
 
-Engineering
-        │
-        ├── Data Structures & Algorithms
-        ├── Git & GitHub
-        ├── Docker
-        └── Cloud Deployment
 ```
 
 ---
@@ -168,23 +155,10 @@ An AI chatbot application experimenting with:
 * Streamlit interface
 * Google Gemini APIs
 
-**Tech:** Python · Google Gemini · Pydantic · Streamlit
+**Tech:** Python · Google Gemini 
 
 ---
 
-### 👗 StyleSync AI
-
-**StyleSync AI** is a personal AI fashion assistant concept designed to provide personalized outfit recommendations.
-
-Potential features include:
-
-* 👚 Outfit analysis
-* 📸 Image-based fashion understanding
-* 💇 Hairstyle recommendations
-* ⭐ Outfit scoring
-* 🎨 Personalized styling suggestions
-
----
 
 
 
