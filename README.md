@@ -151,8 +151,6 @@ An AI chatbot application experimenting with:
 * LLM interaction
 * Structured responses
 * Conversation memory
-* Pydantic data validation
-* Streamlit interface
 * Google Gemini APIs
 
 **Tech:** Python · Google Gemini 
